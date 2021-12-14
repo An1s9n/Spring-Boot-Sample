@@ -1,0 +1,5 @@
+bar:
+  property-one: bar property one value from config
+
+foo:
+  property-one: foo property one value from config
